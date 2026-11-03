@@ -1,0 +1,19 @@
+{
+  "name": "genpark-personal-agent-cutaneous-mexameter-melanin-erythema-index-skill",
+  "version": "1.0.0",
+  "description": "Calculates Mexameter Erythema Index (EI) and Melanin Index (MI) from 568nm, 660nm, 880nm spectral reflectance to evaluate microvascular inflammation and Fitzpatrick phototype.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "cutaneous",
+    "dermatology",
+    "mexameter",
+    "erythema",
+    "melanin",
+    "spectrophotometry"
+  ],
+  "dependencies": []
+}
